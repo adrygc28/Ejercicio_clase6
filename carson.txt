@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Perrito dorado lloron
 Tiene 5 anios
 y una hermanita que se llama jessie
+=======
+Perrito dorado lloron MODIFICADO
+>>>>>>> 375a2305676fd491f5faf2679d3f280a44238a7a
